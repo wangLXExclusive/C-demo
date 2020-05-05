@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/c++Project/BP/main.cpp
+iostream
+-
+cstring
+-
+functional
+-
+fstream
+-
+sstream
+-
+ctime
+-
+tuple
+-
+iterator
+-
+random
+-
+initializer_list
+-
+
